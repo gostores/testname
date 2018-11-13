@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gostores/stack"
+	"github.com/govenue/stack"
 )
 
 var replacer = strings.NewReplacer(".", "_", "/", "_", ":", "_")
